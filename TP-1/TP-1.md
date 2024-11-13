@@ -122,3 +122,69 @@ Réponses :
 
 4. **Atteindre un taux de complétude de 90 % des données CRM (Priorité 4)**  
    Bien que moins stratégique, cet objectif est urgent pour garantir la fiabilité des informations dans la base de données..
+
+## Définition du Périmètre
+
+### Fonctionnalités Incluses
+
+1. **Gestion des contacts et des comptes clients**
+   - Permet de centraliser toutes les informations des clients et prospects dans une base de données unique, accessible aux associés et aux équipes.
+
+2. **Suivi des opportunités commerciales**
+   - Outil de gestion des opportunités pour suivre chaque étape du cycle de vente, de la qualification initiale à la conversion en client.
+
+3. **Outil de reporting et d’analyse multicritère**
+   - Fonctionnalités de création de rapports personnalisés sur les ventes, les clients, les opportunités, avec des indicateurs clés pour la prise de décisions stratégiques.
+
+4. **Automatisation des tâches administratives**
+   - Automatisation des rappels, notifications, et emails pour simplifier le suivi des prospects, la gestion des relances, et le suivi post-vente.
+
+5. **Intégration avec outils bureautiques et mobiles**
+   - Compatibilité avec les outils bureautiques (ex. : suite Microsoft Office) et accès mobile pour permettre aux associés de travailler de manière flexible et mobile.
+
+---
+
+### Fonctionnalités Explicitement Exclues
+
+1. **Gestion avancée de campagnes marketing**
+   - Le CRM ne sera pas utilisé pour gérer des campagnes marketing avancées, telles que les campagnes publicitaires ou de marketing automatisé en grande échelle.
+
+2. **Fonctionnalités de support client (SAV)**
+   - La gestion du support client et des réclamations après-vente est hors périmètre et n'est pas incluse dans les fonctionnalités de ce CRM.
+
+3. **Intégration avec des plateformes de réseaux sociaux**
+   - Le CRM ne comprendra pas d'intégration directe avec des réseaux sociaux pour la gestion des interactions ou de la publicité.
+
+---
+
+### Interfaces avec l'Existant
+
+- **Base de données clients existante** : Intégration avec le fichier client actuel pour migrer et enrichir les données clients dans le CRM.
+- **Système de messagerie interne** : Interface avec l'outil de messagerie pour faciliter les notifications et rappels automatiques.
+- **Outil de reporting financier** : Exportation de données vers les outils financiers pour calculer les performances de vente et la rentabilité (ex. : pour les rapports financiers de la DAF).
+
+---
+
+## Zones de Risque Potentiel
+
+1. **Qualité et complétude des données migrées** : La migration des données existantes présente un risque de perte ou de duplication de données, ce qui peut affecter la qualité de la base de données.
+  
+2. **Adoption et résistance au changement** : Un risque élevé de résistance des équipes à adopter le CRM, ce qui pourrait diminuer la valeur ajoutée de l’outil et sa rentabilité.
+
+3. **Compatibilité avec les outils existants** : Des incompatibilités possibles avec les outils bureautiques ou le système de messagerie peuvent réduire l'efficacité du CRM.
+
+4. **Respect des délais** : Le projet a une forte contrainte temporelle (déploiement en 6 mois), et tout retard dans la sélection des prestataires ou dans la migration des données peut impacter la livraison.
+
+---
+
+## Critères d’Acceptation
+
+1. **Taux de complétude des données** : Au moins 90 % des données client doivent être complétées et sans doublons après la migration.
+  
+2. **Taux d’adoption** : 80 % des utilisateurs identifiés doivent se connecter et utiliser activement le CRM dans le mois suivant le lancement.
+
+3. **Temps de réponse de l’outil** : Le CRM doit afficher les informations clients et les données des opportunités en moins de 3 secondes.
+
+4. **Interopérabilité avec les outils existants** : Le CRM doit permettre un export fluide des données vers les outils financiers et être compatible avec les outils bureautiques et mobiles.
+
+5. **Satisfaction des utilisateurs** : Au moins 70 % des utilisateurs doivent exprimer une satisfaction d’utilisation positive (via enquête) dans les trois premiers mois.
