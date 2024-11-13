@@ -732,7 +732,9 @@ Les Indicateurs Clés (KPI)
 
 ### 3.5 Prendre en compte le risque
 
+### *3.5.1 L'analyse des risques*
 
+### *3.5.2 Le plan de risques*
 
 ### 3.6 Étude du risque pour le projet de CRM
 
