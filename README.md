@@ -341,30 +341,401 @@ Rôle et Importance
 #### 4. Gestion des données
 ---
 
-**Conservation**
+**Conservation :**
 
 - Durée limitée au traitement
 - Effacement après utilisation
 - Cas spéciaux (compatibilité, etc.)
 
-**Sécurisation**
+**Sécurisation :**
+
+#### 5. ?
 
 ---
 
-- **2.6.2 Des données personnelles conserves le temps d'effectuer des traitements**
+#### 6. Territoialisation
 
-- **2.6.3 Le stockage des données personnelles et leur neutralisation**
+**Contrainte :**
 
-- **2.6.4 Le register des traitements**
+- Hébergement territorial
+- Protection des transferts
+- Sécurisation du développement
+- Gestion du Cloud
 
-- **2.6.5 La territorialisation des données dans le cadre d'un projet de développement**
+---
 
-- **2.6.6 La responsabilité des données au sein des organisations (alias CDO)**
+#### 7. Chief Digital Officer (CDO)
+
+**Responsabilités :**
+
+- Pilotage des activités données
+- Gestion des incidents
+- Formation des équipes
+- Coordination des projets
+- Conformité réglementaire
+
+**Points Clés**
+
+
+### *2.6.2 Des données personnelles conserves le temps d'effectuer des traitements*
+
+### *2.6.3 Le stockage des données personnelles et leur neutralisation*
+
+### *2.6.4 Le register des traitements*
+
+### *2.6.5 La territorialisation des données dans le cadre d'un projet de développement*
+
+### *2.6.6 La responsabilité des données au sein des organisations (alias CDO)*
+
+---
+
+### 2.7 Le cadre contractuel du projet
+
+### 2.8 Étude financière du site de vente en ligne
+
+## Chapitre 3 La prise en compte du risque
+
+### 3.1 Les trois axes
+
+**Introduction :**
+
+- La complexité de la gestion de projet : par où commencer ?
+- Un cadre structuré pour s'organiser
+- Une approche tirdimensionnelle
+
+---
+
+**Les Trois Dimensions Clés :**
+
+- Axe du Temps (Cycle de vie)
+- Axe d'Analyse (Niveau d'abstraction)
+- Axe de Pilotage (Cycle de décision)
+
+**Axe du Temps (Développement)**
+
+- Expression des besoins
+- Phases de développement
+- Livraison
+- Maintenance
+- Sans cet axe :
+    - Non-conformité aux besoins
+    - Dérive du projet
+    - Tests insuffisants
+
+**Axe d'Analyse ()**
+
+**Axe de Pilotage (Décision)**
+
+
+### 3.2 Le modèle de développement
+
+Un choix stratégique pour le chef de projet
+
+---
+
+**Introduction**
+
+- Premier choix crucial du chef de projet
+- Impact sur l'organisation temporelle
+- Pas de modèle universel : tout dépend du contexte
+- Six principaux modèles à considérer
+
+---
+
+### *3.2.1 Le modèle Cascade*
+
+**Structure :**
+
+- Progression linéaire
+- Chaque étape suit la précédente
+- Pas de retour en arrière facile
+
+**Étape clés :**
+
+1. Idée - démarrage
+2. Expression des besoins
+3. Spécifications
+4. Développement
+5. Tests unitaires
+6. Tests d'intégration
+7. Tests fonctionnels
+8. Installation
+
+**Point d'attention :**
+
+- Coût exponentiel des modifications tardives
+- "Effet cascade" : difficile de remonter le courant
+
+---
+
+### *3.2.2 Le modèle en V*
+
+**Caractéristiques :**
+
+- Évolution du modèle cascade
+- Anticipation des tests
+- Symétrie entre conception et validation
+
+**Avantages :**
+
+- Tests sous-traités et objectifs
+- Vérification précoce de la couverture fonctionnelle
+- Limitation des erreurs de conception
+
+**Incovénient :**
+
+- Durée augmentée de 30-40%
+
+---
+
+### *3.2.3 Le modèle itératif*
+
+**Principes :**
+
+- Succession de mini-cascades
+- Focus sur les risques techniques
+- Évolution constante des périmétres
+
+**Organisation :**
+
+- Début par les parties complexes
+- Phases de stabilisation
+- ?
+
+---
+
+### *3.2.4 Le modèle RAD*
+
+**Caractéristiques :**
+
+- Explo fonctionnelle
+- Maquettage graphique important
+- Forte implication client
+
+**Conditions de réussie :**
+
+- Techno robustes & mature
+- Outils de dév de haut niveau
+- Plateforme standard
+
+**Usage :**
+
+- Privilégié par les SSII
+- Adapté aux prototypes (POC)
+
+---
+
+- **3.2.5 Le modèle Extreme Programming**
+
+**Spécificités :**
+
+- Cycles courts
+- Binôme junior/senior
+- Tests précoces
+- Intégration continue
+
+**Points forts :**
+
+- Livraisons fréquentes
+- Transmission de compétences
+- Feedback cliebt régulier
+- Tests automatisés
+
+---
+
+### *3.2.6 Le modèle RUP (Rational Unified Process)*
+
+**Caractéristiques :**
+
+- Basé sur UML
+- Intègre la gestion de projet
+- Niveau conceptuel élevé
+
+**Variantes :**
+
+- RUP
+- XUP
+- 2TUP
+
+**Conclusion :**
+
+- Choix selon les caractéristiques du projet
+-  Impact sur l'organisation & le résultat
+- Importance de l'adéquation avec :
+    - L'équipe
+    - Les techno
+    - Les contraintes du projet
+    - Les attentes client
+
+### 3.3 Le modèle d'analyse
+
+Principes & Méthodes de Modélisation
+
+---
+
+**Introduction**
+
+- Étude du système en devenir
+- Importance de définir les contours du système
+- Focus sur les stimuli utilisateurs
+- Défi : modéliser ce qui n'existe pas encore
+
+---
+
+### *3.3.1. Le Principe de Modélisation*
+
+**Définition :**
+
+- Abstraction de la réalité
+- Description formalisée du système cible
+- Outil de définition des priorités
+
+**Les 3 Étapes Clés :**
+
+1. Abstraction
+    - Analyse de l'existant
+    - Extraction de l'essentiel
+    - Évitement des biais
+
+2. Instanciation
+    - Création d'instances concrètes
+    - Transformation en code
+    - Application du modèle
+
+3. Vérification
+    - Confrontation avec la réalité
+    - Validation des règles sémantiques
+    - Ajustements nécessaires
+
+---
+
+### *3.3.2 Le modèle Merise*
+
+?
+
+---
+
+### *3.3.3 Le modèle UML*
+
+?
+
+---
+
+**Conclusion :**
+
+- Importance de la modélisation appropriée
+- Adaptation selon le contexte
+- Complémentarité des approches
+- Nécessité de vérification continue
+
+---
+
+### 3.4 Le modèle de pilotage
+
+Gouverner c'est prévoir
+
+**Introduction :**
+
+- Vision systémique du projet
+- Contrôle externe du processus
+- Intégration dans les flux de l'entreprise
+- Anticipation des aléas
+
+---
+
+### *3.4.1 Les faits relatifs au projet*
+
+**Le Comité de Pilotage :**
+
+**Composition :**
+
+- Chef de projet
+- Représentants du comité de direction
+- Partenaires
+- Clients
+
+**Rôle :**
+
+-
+-
+-
+
+---
+
+**Les Sources d'Information**
+
+1. Canaux Formels
+
+- États d'anomalies (bug tracking)
+- États de charge des équipes
+- Remontées utilisateurs
+- Planning
+
+2. Canaux Informels
+
+- Réunions de suivi
+- Échanges d'expérience
+- Clubs utilisateurs
+
+---
+
+### *3.4.2 Les indicateurs clés de performance (PKI)*
+
+Les Indicateurs Clés (KPI)
+
+1. Planning
+
+- Écarts prévisionnel/réalisé
+- Chemin critique
+- Niveau de charge équipe
+
+2. Qualité
+
+- Nombre d'anomalies
+- Temps de traitement
+- Balance âgée
+
+3. Roadmap
+
+- Périmètre fonctionnel
+- Respect architectures
+- Jalons clés
+
+4. Finances
+
+- Business case
+- Budget
+- Investissements
+
+5. Équipe
+
+- Niveau sous-traitance
+-
+-
+
+6.
+
+-
+-
+-
+
+---
+
+### *3.4.3 Le pilotage du projet*
+
+**Conclusion :**
+
+-
+-
+-
+-
+
+### 3.5 Prendre en compte le risque
 
 
 
-### *2.7 Le cadre contractuel du projet*
+### 3.6 Étude du risque pour le projet de CRM
 
-### *2.8 Étude financière du site de vente en ligne*
+
 
 *By Maxime.S*
