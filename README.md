@@ -890,4 +890,262 @@ Mise en production du projet
 
 ---
 
-*By Maxime.S*
+## Chapitre 5
+
+### 5.1 Les bases de l'agilité
+
+### *5.1.1 La maîtrise du risque*
+
+Une Nouvelle Vision du Développement Logiciel
+
+1. Pourquoi l'Agilité
+
+Limites des Approches Classiques
+
+- Rigidité face aux changements
+- Effet tunnel
+- Difficulté d'estimation
+- Dépendance au cahier des charges initial
+
+Contexte Actuel
+
+- Techno en évolution rapide
+- Besoins changeants
+- Time-to-market accéléré
+- Nécessité d'adaptation continue
+
+2. Approche Classique vs Agile
+
+Comparaison des Approches
+
+![alt text](image-1.png)
+
+But de l'Approche Agile : Limité un maximum le coût des retards dû aux imprévus
+
+3. Concepts Clés de l'Agilité
+
+Points de Complexité vs Charge
+
+    - Abandon de la mesure en jours/homme
+    - Utilisation de points de complexité
+    - Suite de Fibonacci (?)
+    - Prise en compte du risque
+
+Vélocité
+
+    - Mesure de la capacité réelle de l'équipe
+    - Ajustement sprint après sprint
+    - Indicateur fiable de progression
+
+
+4. Principes Fondamentaux
+
+Stratégie des Petits Pas
+
+- Itérations courtes
+- Réévaluation périodique
+- Adaptation continue
+
+Fail Fast & Quick Win
+
+- Encourager l'expérimentation
+- Apprendre rapidement des erreurs
+- Valider rapidement les hypothèses
+
+Implication Client
+
+- Client au coeur du développement
+- Feedback constant
+- Alignement avec les besoins business
+
+---
+
+### *5.1.2 Les nouveaux rôles*
+
+### **Product Manager/Owner**
+
+**Product Owner** : Maximiser la valeur du produit
+
+**Product Manager** : Interlocuteur privilégié du client - Fait la transmission entre besoin du client et objectif pour l'équipe de dev
+
+- Maximisation de la valeur business
+- Vision produit
+- Interface avec le client
+- Priorisation des besoins
+
+### **Scrum Master**
+
+Chef de projet de la méthode agile
+
+- Facilitateur
+- Suppression des obstacles
+- Coach d'équipe
+- Garant de la méthode
+
+### **Product Designer**
+
+Prototype et Améliore certains points de l'application 
+
+- Focus sur l'expérience utilisateur
+- Prototypage rapide
+- Principe KISS
+- Design itératif
+
+### *Delivery Management*
+
+Rôle du Delivery Manager
+
+- Automatisation des processus
+- Coordination des équipes
+- Résolution des blocages
+- Facilitation du déploiement
+
+Caractéristiques
+
+- Circuit unique de déploiemet
+- Intégration continue
+- Livraison continue
+- DevOps
+
+---
+
+### Facteurs de Succès & Points Clés
+
+### *Facteurs*
+
+- Adaptation au changement
+- Communication continue
+- Collaboration active
+- Responsabilisation des équipes
+- Automatisation des processus
+- Focus sur la valeur business
+- Amélioration continue
+
+### *Points Clés*
+
+**La méthode Agile :**
+
+- Une approche itérative
+- Un focus sur la satisfaction client
+- Une adaptation continue
+- Une collaboration active
+- Une livraison de valeur rapide
+- Une amélioration permanente
+
+---
+
+### 5.2 Des approches agiles remarquables
+
+### *5.2.1 La méthodologie Scrum*
+
+Développement logiciel qui se fait de maniètre incrémentable et rapide
+
+---
+
+Principes Fondamentaux
+
+- Cycles courts (sprints)
+- Développement incrémental
+- Livraisons progressives
+- Approche holistique
+
+Le Backlog
+
+- User Stories (US) : Description d'une feature de ton application
+- Technical Stories (TS)
+- Epics & Features
+- Story mapping
+- Gestion des bugs
+
+### *Les Cérémonies Scrum*
+
+Réunions Essentielles
+
+1. Sprint Planning
+    - Sélection des US
+    - Planification du sprint
+
+2. Daily Standup
+    - Avancement quotidien
+    - Identification des blocages
+    - 15 minutes max
+
+3. Sprint Review
+    - Démonstration
+    - Feedback client
+    - Validation des livrables
+
+4. Sprint Retrospective
+    - Amélioration continue
+    - Retours d'expérience
+    - Ajustements process
+
+
+### *Rôles & Suivi Scrum*
+
+**Scrum Master**
+
+    - Facilitateur
+    - Coach d'équipe
+    - Gérant de la méthode
+    - Rôle tournant possible
+
+**Suivi d'Avancement**
+
+    - Points de complexité
+    - Tableau Kanban
+    - Burndown chart
+    - Vélocité d'équipe
+
+---
+
+### *5.2.2 Kanban*
+
+**Origines et Principes**
+
+- Issu du Toyota Production System
+- Flux tiré vs flux poussé
+- Élimination des tocks
+- Production juste à temps
+- Amélioration continue
+
+**Caractéristiques**
+
+- Visualisation du flux
+- Limitation du travail en cours
+- Gestion du flux continu
+- Règles explicites
+- Boucles de feedback
+
+**Organisation Kanban**
+
+Tableau Kanban
+
+- Colonnes de workflow
+- Lmites WIP (Work in progress)
+- Capacités par processus
+- Visibilité totale
+
+---
+
+### *5.3.3 Comparaison Scrum | Kanban*
+
+![alt text](image-2.png)
+
+---
+
+Points Clés à Retenir
+
+Choix de la Méthode
+
+- Scrum : Pour projets structurés en cycles
+- Kanban : Pour flux continu et adaptation rapide
+- Hybridation possible selon contexte
+- Focus sur la valeur client
+- Améliorationn continue essentielle
+
+---
+
+### *From Mounir.B lesson*
+
+### *By Maxime.S*
