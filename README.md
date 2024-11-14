@@ -4,11 +4,11 @@
 
 ### Démarrer un projet informatique
 
-### *1.1 Démarrer un projet informatique*
+### 1.1 Démarrer un projet informatique
 
 ---
 
-- **1.1.1 Identifier les enjeux :**
+### *1.1.1 Identifier les enjeux :*
 
 Définir quels sont les critères de réussites et les hierarchiser
 
@@ -18,13 +18,13 @@ Définir quels sont les critères de réussites et les hierarchiser
 
 ---
 
-- **1.1.2 Définir les objectifs du projet :**
+### *1.1.2 Définir les objectifs du projet :*
 
 Que veut-on obtenir ? A quel besoin le projet répond ?
 
 ---
 
-- **1.1.3 Le périmètre du projet :**
+### *1.1.3 Le périmètre du projet :*
 
 Portée & Limite du projet
 
@@ -40,11 +40,11 @@ QCD (Qualité Coup Délai)
 
 ---
 
-### *1.2 Élaborer son projet*
+### 1.2 Élaborer son projet
 
 ---
 
-- **1.2.1 Dimensionner le projet**
+### *1.2.1 Dimensionner le projet*
 
 Prévoir quelles ressources seront affectées sur quelles durées et sur quelles tâches
 
@@ -64,7 +64,7 @@ Planning
 
 ---
 
-- **1.2.2 Constituer une équipe**
+### *1.2.2 Constituer une équipe*
 
 Compétences des personnes dans l'équipe
 
@@ -80,7 +80,7 @@ Chef de projet ( Role : Coordinateur, communication dans l'équipe, gestion du t
 
 ---
 
-- **1.2.3 Déclencher le projet**
+### *1.2.3 Déclencher le projet*
 
 Démarrage de projet
 
@@ -88,25 +88,25 @@ Toutes les précédentes informations requisent pour lancer le projet.
 
 ---
 
-### *1.3 L'apport de la conduite de projets*
+### 1.3 L'apport de la conduite de projets
 
 ---
 
-- **1.3.1 Maximiser la Valeur du projet**
+### *1.3.1 Maximiser la Valeur du projet*
 
 ---
 
-- **1.3.2 Fiabiliser l'emploi des ressources et le planning**
+### *1.3.2 Fiabiliser l'emploi des ressources et le planning*
 
 Gestion & économiser un maximum les ressources tout en atteignant la finalité du projet
 
 ---
 
-- **1.3.3 Développer son équipe**
+### *1.3.3 Développer son équipe*
 
 ---
 
-### *1.4 Quatre projets sous forme d'études de cas*
+### 1.4 Quatre projets sous forme d'études de cas
 
 ---
 
@@ -122,7 +122,7 @@ Lister les ressources ( Temps et prix alloués à chaque ressource )
 
 ---
 
-### *2.1 Les aspects financiers*
+### 2.1 Les aspects financiers
 
 Prix des coûts
 
@@ -132,7 +132,7 @@ Estimation globale du coût du projet
 
 ---
 
-- **2.1.1 La structure de coût d'un projet**
+### *2.1.1 La structure de coût d'un projet*
 
 Réalisation (≈75% première année) :
 
@@ -142,7 +142,7 @@ Réalisation (≈75% première année) :
 
 ---
 
-- **2.1.2 Les prestations d'hébergement**
+### *2.1.2 Les prestations d'hébergement*
 
 Régie :
 
@@ -158,7 +158,7 @@ Forfait :
 
 ---
 
-- **2.1.3 Le plan de charge financier**
+### *2.1.3 Le plan de charge financier*
 
 Hébergement :
 
@@ -174,7 +174,7 @@ Maintenance :
 
 ---
 
-- **2.1.4 Les prestations d'exploitation et de maintenance**
+### *2.1.4 Les prestations d'exploitation et de maintenance*
 
 Support Utilisateur :
 
@@ -198,23 +198,34 @@ Points Clés :
 
 ---
 
-- **2.1.5 Les prestations de support aux utilisateurs**
+### *2.1.5 Les prestations de support aux utilisateurs*
 
-- 
--
--
-
----
-
-- **2.1.6 Les coûts refacturés**
-
-- **2.1.7 Les coûts non liés à l'informatique**
-
-### *2.2 Les budgets*
+- Niveau 1, 2, 3
+- SLA définis
+- Facturation selon volume
 
 ---
 
-- **2.2.1 Constitution des budgets**
+### *2.1.6 Les coûts refacturés*
+
+- Formation
+- Matériel
+
+---
+
+### *2.1.7 Les coûts non liés à l'informatique*
+
+- Marketing
+- Documentation
+- Frais commerciaux
+
+---
+
+### 2.2 Les budgets
+
+---
+
+### *2.2.1 Constitution des budgets*
 
 - Pay as you go
     - Facturation à l'usage
@@ -242,27 +253,40 @@ Analyse Performance
 
 - Cash-flow cumulatif
 - Profit cumulatif
-- ?
-- ?
-- ?
+- Période remboursement
+- Amortissement R&D
+- WACC référence (~15%)
 
 ---
 
-- **2.2.2 Les indicateurs liés aux budgets**
+### *2.2.2 Les indicateurs liés aux budgets*
 
-- ? 
+Points Critiques :
+
+- Pourcentage de l'utilisation du budget
+- Suivi du rythme des dépenses 
 
 --- 
 
-### *2.3 Le compte de résultats*
+### 2.3 Le compte de résultats
 
-### *2.4 Le business care*
-
-### *2.5 Le suivi financier des projets*
+- ?
 
 ---
 
-- **2.5.1 Les comptes rendus d'activité**
+### 2.4 Le business care
+
+- ?
+
+---
+
+### 2.5 Le suivi financier des projets
+
+- ?
+
+---
+
+### *2.5.1 Les comptes rendus d'activité*
 
 Rôle et Importance
 
@@ -272,7 +296,7 @@ Rôle et Importance
 
 ---
 
-- **2.5.2 La reconnaissance du chiffre**
+### *2.5.2 La reconnaissance du chiffre*
 
 **Principe**
 
@@ -294,11 +318,11 @@ Rôle et Importance
 
 ---
 
-### *2.6 La réglementation concernant la protection des données personnelles (date privacy)*
+### 2.6 La réglementation concernant la protection des données personnelles (date privacy)
 
 ---
 
-- **2.6.1 Que recouvre le terme de données personnelles ?**
+### *2.6.1 Que recouvre le terme de données personnelles ?*
 
 #### 1. Principe Fondamentaux
 
@@ -349,11 +373,24 @@ Rôle et Importance
 
 **Sécurisation :**
 
-#### 5. ?
-
+#### 5. Registre des Traitements
 ---
 
+Éléments à Documenter
+
+- Identification du traitement
+- Objectif
+- Liste des données
+- Durée
+- Sous-traitance
+- Territorialisation
+- Sécurité
+- Conservation
+- Sauvegarde
+- Neutralisation
+
 #### 6. Territoialisation
+---
 
 **Contrainte :**
 
@@ -362,9 +399,8 @@ Rôle et Importance
 - Sécurisation du développement
 - Gestion du Cloud
 
----
-
 #### 7. Chief Digital Officer (CDO)
+---
 
 **Responsabilités :**
 
@@ -374,8 +410,13 @@ Rôle et Importance
 - Coordination des projets
 - Conformité réglementaire
 
+---
+
 **Points Clés**
 
+*La responsabilité pénale des dirigeants peut être engagée en cas de défaillance.*
+
+---
 
 ### *2.6.2 Des données personnelles conserves le temps d'effectuer des traitements*
 
@@ -738,6 +779,115 @@ Les Indicateurs Clés (KPI)
 
 ### 3.6 Étude du risque pour le projet de CRM
 
+## Chapitre 4 ?
 
+### 4.1 ?
+
+### 4.2 Les phases du projet
+
+---
+
+### *4.2.1 L'expression de besoins et le cahier des charges*
+
+Contenu du Cahier des Charges
+
+- Contexte & objectifs stratégique
+- Objet et périmètre du projet
+- Domaine métier
+- Périmètre fonctionnel
+- Critères de qualité
+- Conditions opérationnelles
+- Méthodologie
+- Planning et aspects financiers
+- Responsabilités et garanties
+
+---
+
+### *4.2.2 Le cadrage et les spécifications générales*
+
+Dossier d'Intégration Fonctionnelle (DIF)
+
+- Acteurs
+- Étapes des processus
+- Conditions de déclenchement
+- Résultats attendus
+
+Dossier d'Intégration Technique (DIT)
+
+- Architecture applicative
+- Interfaces techniques
+- Procédures d'exploitation
+- 
+
+---
+
+### *4.2.3 La conception détaillée*
+
+- L'objectif de ce document est de fournir la feuille de route exhaustive et détaillée nécessaire à la réalisation technique de votre projet
+
+---
+
+### *4.2.4 La réalisation*
+
+Réalisation = Développement du projet
+
+---
+
+### *4.2.5 Les tests et les corrections, l'assurance qualité*
+
+- ?
+
+---
+
+### *4.2.6 Les types de tests*
+
+- Test unitaire
+    - Validation des modules individuels
+    - Tests automatisés
+    - Frameworks
+
+- Tests d'intégration
+    - Connectivité
+    - Sécurité
+    - Performance
+    - Installation
+    - Environnement
+
+- Tests fonctionnels
+- Tests de bout en bout
+- Tests d'acceptation
+- Tests de performance
+- ...
+
+---
+
+### *4.2.7 Gestion des versions*
+
+Chaque grande nouveauté dans le projet et une nouvelle version
+
+Production des Versions
+
+- Numérotation (Majeure.Mineur)
+- Release notes
+- Change log
+- Procédures d'installation
+
+Livraison Continue
+
+- Intégration continue
+- Déploiement automatisé
+- Tests fréquents
+
+**Mot clé :**
+
+CICD : Continuous Integration and Continuous Delivery/Deployment 
+
+---
+
+### *4.2.8 Le lancement*
+
+Mise en production du projet
+
+---
 
 *By Maxime.S*
